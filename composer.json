@@ -1,0 +1,13 @@
+{
+    "name": "vendor/fff-bug",
+    "description": "Description of project fff_bug.",
+    "authors": [
+        {
+            "name": "wallen",
+            "email": "your@email.here"
+        }
+    ],
+    "require": {
+        "bcosca/fatfree-core": "3.5.1"
+    }
+}
